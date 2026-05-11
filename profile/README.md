@@ -11,10 +11,6 @@
   Source of truth lives here; copy when changes are needed.
 -->
 
-<p align="center">
-  <img src="https://telaro.xyz/logo.svg" width="128" alt="Telaro" />
-</p>
-
 <h1 align="center">Telaro Protocol</h1>
 
 <p align="center">
@@ -28,6 +24,15 @@
   <a href="https://github.com/telaro-protocol/agent-reputation-layer">Monorepo</a> ·
   <a href="https://github.com/telaro-protocol/agent-reputation-layer/blob/main/docs/OVERVIEW.md">Docs</a>
 </p>
+
+<p align="center">
+
+<img width="2172" height="724" alt="ChatGPT Image 2026년 5월 11일 오후 09_58_54" src="https://github.com/user-attachments/assets/f3044771-ab84-4fd7-806d-b36840671686" />
+
+  
+</p>
+
+
 
 ---
 
